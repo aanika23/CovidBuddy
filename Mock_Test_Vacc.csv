@@ -1,0 +1,43 @@
+Country,Province/State,City ,Location Name,Address,Postal_Code,Phone,Operating Hours,Walk_ins,Appointment,Majority of Vaccine Provided,Provide Vaccination 
+Canada,BC,Vancouver,BC Women's Hospital, 4500 Oak St,V6H 3N1,(604) 875-2424,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,BC,Burnaby,REACH community Health Care, 4501 Mock St,V6H 3N2,(604) 875-2425,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,AB,MockCity1,Mock Location Name 1,4502 Mock St,V6H 3N3,(604) 875-2426,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,AB,MockCity2,Mock Location Name 2,4503 Mock St,V6H 3N4,(604) 875-2427,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,MB,MockCity3,Mock Location Name 3,4504 Mock St,V6H 3N5,(604) 875-2428,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,MB,MockCity4,Mock Location Name 4,4505 Mock St,V6H 3N6,(604) 875-2429,Open 24 Hours,Yes,Yes,Pfizer,Yes
+Canada,NB,MockCity5,Mock Location Name 5,4506 Mock St,V6H 3N7,(604) 875-2430,Mon-Fri 9AM-9PM,Yes,Yes,Pfizer,Yes
+Canada,NB,MockCity6,Mock Location Name 6,4507 Mock St,V6H 3N8,(604) 875-2431,Mon-Fri 9AM-9PM,Yes,Yes,Pfizer,Yes
+Canada,NL,MockCity7,Mock Location Name 7,4508 Mock St,V6H 3N9,(604) 875-2432,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+Canada,NL,MockCity8,Mock Location Name 8,4509 Mock St,V6H 3N10,(604) 875-2433,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+Canada,NT,MockCity9,Mock Location Name 9,4510 Mock St,V6H 3N11,(604) 875-2434,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+Canada,NT,MockCity10,Mock Location Name 10,4511 Mock St,V6H 3N12,(604) 875-2435,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+Canada,NS,MockCity11,Mock Location Name 11,4512 Mock St,V6H 3N13,(604) 875-2436,Mon-Fri 9AM-9PM,No,Yes,Moderna,Yes
+Canada,NS,MockCity12,Mock Location Name 12,4513 Mock St,V6H 3N14,(604) 875-2437,Mon-Fri 9AM-9PM,No,Yes,Moderna + Pfizer,Yes
+Canada,NU,MockCity13,Mock Location Name 13,4514 Mock St,V6H 3N15,(604) 875-2438,Mon-Fri 9AM-9PM,No,Yes,Moderna + Pfizer,Yes
+Canada,NU,MockCity14,Mock Location Name 14,4515 Mock St,V6H 3N16,(604) 875-2439,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",No,Yes,Janssen,Yes
+Canada,ON,MockCity15,Mock Location Name 15,4516 Mock St,V6H 3N17,(604) 875-2440,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",No,Yes,Janssen,Yes
+Canada,ON,MockCity16,Mock Location Name 16,4517 Mock St,V6H 3N18,(604) 875-2441,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",No,Yes,Janssen,Yes
+Canada,ON,MockCity17,Mock Location Name 17,4518 Mock St,V6H 3N19,(604) 875-2442,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,Janssen,Yes
+Canada,ON,MockCity18,Mock Location Name 18,4519 Mock St,V6H 3N20,(604) 875-2443,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",No,Yes,--,No
+Canada,QC,MockCity19,Mock Location Name 19,4520 Mock St,V6H 3N21,(604) 875-2444,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,--,No
+Canada,QC,MockCity20,Mock Location Name 20,4521 Mock St,V6H 3N22,(604) 875-2445,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,--,No
+Canada,SK,MockCity21,Mock Location Name 21,4522 Mock St,V6H 3N23,(604) 875-2446,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,AstraZeneca,Yes
+Canada,SK,MockCity22,Mock Location Name 22,4523 Mock St,V6H 3N24,(604) 875-2447,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,AstraZeneca,Yes
+Canada,YT,MockCity23,Mock Location Name 23,4524 Mock St,V6H 3N25,(604) 875-2448,"Mon-Fri 9AM-9PM, Sat/Sun 7AM-11PM",Yes,Yes,AstraZeneca,Yes
+U.S,WA,MockCity24,Mock Location Name 24,4525 Mock St,V6H 3N26,(604) 875-2449,Open 24 Hours,No,Yes,AstraZeneca,Yes
+U.S,CA,MockCity25,Mock Location Name 25,4526 Mock St,V6H 3N27,(604) 875-2450,Open 24 Hours,No,Yes,AstraZeneca,Yes
+U.S,OK,MockCity26,Mock Location Name 26,4527 Mock St,V6H 3N28,(604) 875-2451,Open 24 Hours,No,Yes,AstraZeneca+Moderna,Yes
+U.S,OK,MockCity27,Mock Location Name 27,4528 Mock St,V6H 3N29,(604) 875-2452,Open 24 Hours,No,Yes,AstraZeneca+Moderna,Yes
+U.S,WY,MockCity28,Mock Location Name 28,4529 Mock St,V6H 3N30,(604) 875-2453,Open 24 Hours,No,Yes,AstraZeneca+Moderna,Yes
+U.S,WY,MockCity29,Mock Location Name 29,4530 Mock St,V6H 3N31,(604) 875-2454,Mon-Fri 9AM-9PM,No,Yes,AstraZeneca+Moderna,Yes
+U.S,NY,MockCity30,Mock Location Name 30,4531 Mock St,V6H 3N32,(604) 875-2455,Mon-Fri 9AM-9PM,No,Yes,Pfizer,Yes
+U.S,NY,MockCity31,Mock Location Name 31,4532 Mock St,V6H 3N33,(604) 875-2456,Mon-Fri 9AM-9PM,No,Yes,Pfizer,Yes
+U.S,NY,MockCity32,Mock Location Name 32,4533 Mock St,V6H 3N34,(604) 875-2457,Mon-Fri 9AM-9PM,No,Yes,Pfizer,Yes
+U.S,NY,MockCity33,Mock Location Name 33,4534 Mock St,V6H 3N35,(604) 875-2458,Mon-Fri 9AM-9PM,No,Yes,Pfizer,Yes
+U.K,--,MockCity34,Mock Location Name 34,4535 Mock St,V6H 3N36,(604) 875-2459,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+U.K,--,MockCity35,Mock Location Name 35,4536 Mock St,V6H 3N37,(604) 875-2460,Mon-Fri 9AM-9PM,Yes,Yes,Moderna,Yes
+U.K,--,MockCity36,Mock Location Name 36,4537 Mock St,V6H 3N38,(604) 875-2461,Open 24 Hours,Yes,Yes,Moderna,Yes
+U.K,--,MockCity37,Mock Location Name 37,4538 Mock St,V6H 3N39,(604) 875-2462,Open 24 Hours,Yes,Yes,Moderna,Yes
+U.K,--,MockCity38,Mock Location Name 38,4539 Mock St,V6H 3N40,(604) 875-2463,Open 24 Hours,Yes,Yes,Moderna,Yes
+U.K,--,MockCity39,Mock Location Name 39,4540 Mock St,V6H 3N41,(604) 875-2464,Open 24 Hours,Yes,Yes,Moderna,Yes
+U.K,--,MockCity40,Mock Location Name 40,4541 Mock St,V6H 3N42,(604) 875-2465,Open 24 Hours,Yes,Yes,Moderna,Yes
